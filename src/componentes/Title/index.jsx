@@ -4,7 +4,7 @@ import React from 'react';
 export const Title = (props) => {
     console.log(props);
     return ( 
-        <h1> Holaa</h1>
+        <h1> {props.greeting}</h1>
     );
 }
 
