@@ -1,5 +1,7 @@
 import React from "react";
 
+import './itemDetail.css';
+
 export const ItemDetail = ({data}) => {
     return(
         <div className="container" >
