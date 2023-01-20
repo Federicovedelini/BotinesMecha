@@ -3,7 +3,9 @@ import './item.css';
 import {Link} from "react-router-dom";
 
 
+
  const Item = ({info}) => {
+    
     
 
     return (
