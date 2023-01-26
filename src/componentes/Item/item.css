@@ -1,10 +1,21 @@
-.film{
+.botines{
     display: block;
     width: 200px;
+    border: 1px solid black;
+    margin-top: 5px;
+    border-radius: 5px;
+    padding: 5px;
 
 }
 
-.film img {
+.botines p{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.botines img {
     width: 100%;
     height: 100%;
     object-fit: cover;
